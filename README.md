@@ -1,0 +1,2 @@
+Week 9:
+During week 9 we experimented with lettering and how to make interactive effects using wriggly letters/font, this allowed us to learn how to play with font for our final project, We also worked on our sko and final project as we only had a couple weeks left to gain feedback on them. This week overall offered various improvements on my final project, such as merging different codes together to create a new and improved code.
